@@ -1,0 +1,50 @@
+*{
+margin: 0;
+padding: 0;
+}
+body{
+background: 
+text-align: center
+width: 100px;
+}
+.container{
+width: 900px;
+margin: auto;
+}
+#key-block img{
+dicplay:block;
+margin: auto;
+}
+#key-block h1{
+font-weight: 600;
+text-align: center;
+font-size: 43px;
+font-family:"Batang";
+width: 350px;
+margin-bottom: 5px;
+}
+#key-block h2{
+text-align: center;
+font-size: 16px;
+margin-bottom: 5px;
+}
+nav{
+overflow: hidden;
+margin-bottom: 30px;
+width:250px;
+}
+nav li{
+text-align: center;
+float: left;
+font-size: 18px;
+list-style-type: none;
+}
+nav a{
+text-decoration: none;
+border: none;
+border-radius: 0;
+display:block;
+padding: 8px;
+tranditkon: 0.5s;}
+nav a:hover{
+}
